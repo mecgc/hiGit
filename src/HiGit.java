@@ -4,5 +4,6 @@
 public class HiGit {
     public static void main(String[] args){
         System.out.print("hi git");
+        System.out.println("!!");
     }
 }
